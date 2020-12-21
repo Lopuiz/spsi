@@ -1,0 +1,4 @@
+cmp_sha/testfiles/*
+cmp_sha/calculate_sha
+fim/*.o
+fim/main
