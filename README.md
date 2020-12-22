@@ -1,3 +1,3 @@
 # SPSI
 
-Some exercises from SPSI subject.
+Some exercises for SPSI subject.
